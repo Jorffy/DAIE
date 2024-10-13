@@ -1,6 +1,7 @@
 # DAIE
 
-Code for "Dual-Level Adaptive Incongruity-Enhanced Model for Multimodal Sarcasm Detection".
+This is the official implementation of the paper "Dual-Level Adaptive Incongruity-Enhanced Model for Multimodal Sarcasm Detection", which is accepted by Neurocomputing. 
+(https://doi.org/10.1016/j.neucom.2024.128689)
 
 
 ## Model Architecture
@@ -32,4 +33,18 @@ At last,  you can run the below code:
 
 ```shell
 bash run.sh
+```
+
+## Papers for the Project & How to Cite
+
+If you use or extend our work, please cite the paper as follows:
+```
+@article{wu2024dual,
+  title={Dual-level adaptive incongruity-enhanced model for multimodal sarcasm detection},
+  author={Wu, Qiaofeng and Fang, Wenlong and Zhong, Weiyu and Li, Fenghuan and Xue, Yun and Chen, Bo},
+  journal={Neurocomputing},
+  pages={128689},
+  year={2024},
+  publisher={Elsevier}
+}
 ```
