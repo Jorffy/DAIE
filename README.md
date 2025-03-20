@@ -9,7 +9,7 @@ Multimodal sarcasm detection leverages multimodal information, such as image, te
 ## Model Architecture
 
 <div align=center>
-<img src="DAIEmodel.png" width="85%" height="85%" />
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0925231224014607-gr2_lrg.jpg" width="85%" height="85%" />
 </div>
 The framework of dual-level adaptive incongruity-enhanced model (DAIE).
 
